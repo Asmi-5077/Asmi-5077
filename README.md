@@ -72,7 +72,7 @@ I am continuously improving my SQL skills through hands-on problem-solving and p
 - Window functions and ranking
 - Business-oriented analytical queries
 
-**Practice milestone:** 70+ SQL problems solved.
+### **Practice milestone:** 70+ SQL problems solved ( Leetcode and Stratascratch ) 
 
 ---
 
@@ -100,7 +100,7 @@ My engineering background helps me approach analytical problems with structured 
 I'm open to connecting with data analysts, business intelligence professionals, recruiters, and fellow learners.
 
 - **GitHub:** [Asmi-5077](https://github.com/Asmi-5077)
-- **LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/)
+- **LinkedIn:** 
 - **Email:** (mailto: bkatiyar12@gmail.com)
 
 <!--
