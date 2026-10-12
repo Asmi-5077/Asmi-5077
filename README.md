@@ -79,7 +79,7 @@ I am continuously improving my SQL skills through hands-on problem-solving and p
 ## 📈 What I'm Working On
 
 - Improving advanced Excel and Power BI capabilities
-- Practicing intermediate-to-advanced SQL queries
+- Practicing Advanced SQL queries
 - Developing more end-to-end data analytics projects
 - Strengthening data storytelling and business interpretation
 - Building a portfolio focused on real-world analytical problems
@@ -100,7 +100,6 @@ My engineering background helps me approach analytical problems with structured 
 I'm open to connecting with data analysts, business intelligence professionals, recruiters, and fellow learners.
 
 - **GitHub:** [Asmi-5077](https://github.com/Asmi-5077)
-- **LinkedIn:** 
 - **Email:** (mailto: bkatiyar12@gmail.com)
 
 <!--
