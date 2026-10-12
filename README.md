@@ -13,7 +13,7 @@ I work on practical analytics projects involving **Excel dashboards, Power BI re
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 | Category | Skills |
 |---|---|
@@ -26,7 +26,7 @@ I work on practical analytics projects involving **Excel dashboards, Power BI re
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### 1. Hospital Emergency Room Analysis — Excel Dashboard
 
@@ -60,7 +60,7 @@ I work on practical analytics projects involving **Excel dashboards, Power BI re
 
 ---
 
-## 🗄️ SQL Practice & Problem-Solving
+##  SQL Practice & Problem-Solving
 
 I am continuously improving my SQL skills through hands-on problem-solving and practical data analysis exercises.
 
@@ -76,7 +76,7 @@ I am continuously improving my SQL skills through hands-on problem-solving and p
 
 ---
 
-## 📈 What I'm Working On
+##  What I'm Working On
 
 - Improving advanced Excel and Power BI capabilities
 - Practicing Advanced SQL queries
@@ -86,7 +86,7 @@ I am continuously improving my SQL skills through hands-on problem-solving and p
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Bachelor's Degree in Chemical Engineering**  
 Third-Year Undergraduate Student | BIET Jhansi 
