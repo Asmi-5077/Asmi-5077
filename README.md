@@ -72,7 +72,7 @@ I am continuously improving my SQL skills through hands-on problem-solving and p
 - Window functions and ranking
 - Business-oriented analytical queries
 
-### **Practice milestone:** 70+ SQL problems solved ( Leetcode and Stratascratch ) 
+#### **Practice milestone:** 70+ SQL problems solved ( Leetcode and Stratascratch ) 
 
 ---
 
