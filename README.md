@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+
 ### Aspiring Data Analyst | Excel • Power BI • SQL
 
 I'm a third-year Chemical Engineering student transitioning into Data Analytics, with a strong interest in transforming raw data into meaningful insights that support business decisions.
@@ -7,13 +8,15 @@ I'm a third-year Chemical Engineering student transitioning into Data Analytics,
 I work on practical analytics projects involving **Excel dashboards, Power BI reporting, SQL problem-solving, and data-driven business analysis**. My focus is on exploring datasets, identifying trends, tracking KPIs, and presenting insights through clear, interactive visualizations.
 
 - 📊 Building interactive dashboards using Excel and Power BI
-- 🗄️ Strengthening SQL skills through hands-on problem-solving
+- 🗄️ Intermediate-to-advanced SQL skills, including complex queries and analytical problem-solving.
 - 🔍 Exploring business trends, performance metrics, and actionable insights
 - 🎯 Working towards a career in Data Analytics / Business Intelligence
+- 🧩 Solved 50 SQL practice questions on StrataScratch.
+- 🌱 Currently focused on building real-world data analytics projects and strengthening my portfolio.
 
 ---
 
-##  Technical Skills
+## 🛠️ Technical Skills
 
 | Category | Skills |
 |---|---|
@@ -26,7 +29,7 @@ I work on practical analytics projects involving **Excel dashboards, Power BI re
 
 ---
 
-##  Featured Projects
+## 📂 Featured Projects
 
 ### 1. Hospital Emergency Room Analysis — Excel Dashboard
 
@@ -86,7 +89,7 @@ I am continuously improving my SQL skills through hands-on problem-solving and p
 
 ---
 
-##  Education
+## 🎓 Education
 
 **Bachelor's Degree in Chemical Engineering**  
 Third-Year Undergraduate Student | BIET Jhansi 
