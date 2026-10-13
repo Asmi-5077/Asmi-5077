@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 
+
 ### Aspiring Data Analyst | Excel • Power BI • SQL
 
 I'm a third-year Chemical Engineering student transitioning into Data Analytics, with a strong interest in transforming raw data into meaningful insights that support business decisions.
@@ -14,7 +15,12 @@ I work on practical analytics projects involving **Excel dashboards, Power BI re
 - 🧩 Solved 50 SQL practice questions on StrataScratch.
 - 🌱 Currently focused on building real-world data analytics projects and strengthening my portfolio.
 
+
+
 ---
+
+
+
 
 ## 🛠️ Technical Skills
 
