@@ -109,7 +109,7 @@ My engineering background helps me approach analytical problems with structured 
 I'm open to connecting with data analysts, business intelligence professionals, recruiters, and fellow learners.
 
 - **GitHub:** [Asmi-5077](https://github.com/Asmi-5077)
-- **Email:** (mailto: bkatiyar12@gmail.com)
+- **Email:** bkatiyar12@gmail.com
 
 <!--
 **Asmi-5077/Asmi-5077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
